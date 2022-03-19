@@ -1,2 +1,0 @@
-npm outdated  ---> Check new versions of my packages
-npm update --save/--save-dev -f  --> Its update
